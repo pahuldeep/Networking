@@ -28,3 +28,10 @@ Graphs are powerful data structures that can represent complex relationships and
 
 Feel free to explore more about graph learning and apply these concepts to your specific use cases!
 
+## Dependencies
+-  To run the code related to graph learning, you’ll need the following Python packages:
+-  Make sure to install these packages using pip:
+
+``` 
+pip install networkx python-socket pytorch-geometry
+```
